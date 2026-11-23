@@ -1,2 +1,2 @@
-コントロール、ループ、メタデータのみ事前読み込み、サムネ有り
-<video src="raw url" controls loop playsinline preload="metadata" poster="raw url"></video>
+コントロール、ループ、メタデータのみ事前読み込み、サムネ有り、大きさ
+<video src="raw url" controls loop playsinline preload="metadata" poster="raw url" width="%"></video>
